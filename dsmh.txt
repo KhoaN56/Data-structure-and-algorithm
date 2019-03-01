@@ -1,0 +1,5 @@
+Danh sach mon hoc
+CTDL	Cau truc du lieu va giai thuat
+CSDL	Co so du lieu
+KTMT	Kien truc may tinh va he dieu hanh
+#END.

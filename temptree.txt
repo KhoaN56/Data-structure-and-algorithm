@@ -1,0 +1,161 @@
+20
+1
+KTMT
+Trinh tu xu ly thng tin cua may tinh dien tu la:
+A. CPU -> Dia cung -> Man hinh
+B.Nhan thong tin -> Xu ly thong tin -> Xuat thong tin
+C. CPU -> Ban phim -> Man hinh
+D. Man hinh -> May in -> Dia mem
+B
+2
+KTMT
+He thong nho cua may tinh bao gom:
+A. Cache,Bo nho ngoai
+B. Bo nho ngoai, ROM 
+C. Dia quang, Bo nho trong
+D. Bo nho trong, Bo nho ngoai
+D
+3
+KTMT
+Trong may tinh, co cac loai bus lien ket he thong nhu sau:
+A. Chi dan, Chuc nang, Dieu khien
+B. Dieu khien, Du lieu, Dia chi
+C. Du lieu, Phu thuoc, Dieu khien
+D. Du lieu, Dieu khien, Phu tro
+B
+5
+KTMT
+Bo dem chuong trinh cua may tinh khong phai la:
+A. Thanh ghi chua dia chi lenh
+B. Thanh ghi chua lenh sap thuc hien
+C. Thanh ghi chua dia chi lenh sap thuc hien
+D. Thanh ghi
+B
+7
+KTMT
+May tinh ENIAC la may tinh:
+A. Do Bo giao duc My dat hang
+B. La may tinh ra doi vam nhung nam 1970
+C. Dung vi mach co nho va co vua
+D. La may tinh dau tien tren the gioi
+D
+8
+KTMT
+Phat bieu nao sau day la dung:
+A. INTR la tin hieu cung chan duoc
+B. INTR la tin hieu ngat mem
+C. INTR la tin hieu cung khong chan duoc
+D. INTR la mot tin hieu ngat ngoai le
+A
+9
+KTMT
+Cho den nay, may tinh da phat trien qua:
+A. 5 the he
+B. 4 the he
+C. 3 the he
+D. 2 the he
+B
+10
+KTMT
+Tin hieu dieu khien HOLD la tin hieu:
+A. CPU tra loi chap nhan ngat
+B. CPU gui ra ngoai xin dung bus
+C. Tu ben ngoai gui den CPU xin dung bus
+D. Tu ben ngoai gui den CPU tra loi khong dung bus
+C
+12
+CSDL
+SQL la ten viet tat cua:
+A. Structure Query Language
+B. Query Structure Language
+C. Structure Question Language
+D. Structure Query Locator
+A
+15
+CSDL
+Cac phep toan gop nhom duoc su dung sau menh de?
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+D
+18
+KTMT
+Cac hoat dong cua may tinh gom:
+A. Ngat, giai ma lenh, vao/ra
+B. Xu ly so lieu, ngat, thuc hien chuong trinh
+C. Thuc hien chuong trinh, ngat, vao/ra
+D. Tinh toan ket qua, luu tru du lieu, vao/ra
+C
+21
+CSDL
+Truong khoa chinh la truong:
+A. Single key
+B. Unique Key
+C. First Key
+D. Primary Key
+D
+22
+CSDL
+Tieu chi nao sau day thuong duoc dung de chon khoa chinh:
+A. Khoa co it thuoc tinh nhat.
+B. Khong chua cac thuoc tinh thay doi theo thoi gian.
+C. Khoa bat ki.
+D. Chi la khoa co mot thuoc tinh
+A
+23
+CSDL
+Lien ket giua cac bang dua tren
+A. Thuoc tinh khoa
+B. Cac thuoc tinh trung ten nhau giua cac bang
+C. Y dinh cua nguoi quan trihe CSDL
+D. Y dinh ghep cac bang thanh mot bang co nhieu thuoc tinh hon
+A
+24
+CSDL
+Dau KHONG PHAI la cac buoc xay dung co so du lieu
+A. Thiet ke
+B. Khao sat
+C. Chay thu
+D. Ky hop dong
+D
+26
+CSDL
+Neu A=>B va A=>C thi suy ra:
+A. A=>BC
+B. A=>AB
+C. AB=>BC
+D. AA=>C
+A
+27
+KTMT
+Trong may tinh,ngat NMI la gi
+A. Ngat ngoai le khong chan duoc
+B. Ngat mem khong chan duoc
+C. Ngat cung khong chan duoc
+D. Ngat mem chan duoc
+C
+28
+CSDL
+Uu diem co so du lieu
+A. Xuat hien di thuong thong tin
+B. Cac thuoc tinh duoc mo ta trong nhieu tep du lieu khac nhau
+C. Kha nang xuat hien mau thuan va khong nhat quan du lieu
+D. Giam du thua, nhat quan va toan ven du lieu
+D
+29
+CSDL
+Khong nhat quan du lieu trong luu tru
+A. Khong xuat hien mau thuan thong tin
+B. Lam cho du lieu mat di tinh toan ve cua no
+C. Khong the sua doi, bo sung, cap nhat du lieu
+D. Co the trien khai tra cuu tim kiem
+B
+30
+CSDL
+Phep chon duoc thuc hien sau menh de:
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+A

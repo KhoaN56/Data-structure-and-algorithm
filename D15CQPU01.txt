@@ -1,0 +1,285 @@
+3
+Phat trien ung dung
+D15CQPU01
+10
+N15DCPT098,020197,Pham Thi Khanh,Huyen,Nu,0.
+N15DCPT022,020396,Pham Gia,Khanh,Nam,0.
+N15DCPT104,010197,Dang Cong,Minh,Nam,0.
+N15DCPT075,040497,Nguyen Anh,Khoa,Nam,0.
+N15DCPT05,220597,Nguyen Anh,Tu,Nam,0.
+N15DCPT06,120496,Tran Ky,Anh,Nam,0.
+N15DCPT07,250797,Do Thi,Thao,Nu,0.
+N15DCPT08,240897,Hoang Thi,Binh,Nu,0.
+N15DCPT09,140396,Nguyen Anh,Thi,Nu,0.
+N15DCPT10,230997,Pham The,Hien,Nam,0.
+Cong nghe thong tin
+D15CQCN01
+10
+N15DCCN099,020197,Pham Thi Khanh,Lan,Nu,0.
+N15DCCN098,020396,Pham Dinh,Khanh,Nam,0.
+N15DCCN092,010197,Dang Cong,Thanh,Nam,0.
+N15DCCN075,040497,Nguyen Anh,Tu,Nam,0.
+N15DCCN084,220597,Nguyen Anh,Tung,Nam,0.
+N15DCCN087,120696,Tran Ky,Anh,Nam,0.
+N15DCCN074,250797,Do Thi,Thanh,Nu,0.
+N15DCCN081,240297,Hoang Thi,Binh,Nu,0.
+N15DCCN091,140196,Nguyen Anh,Thy,Nu,0.
+N15DCCN112,230597,Pham The,Huy,Nam,0.
+An toan thong tin
+D15CQAT02
+10
+N15DCAT099,030197,Pham Thi Khanh,Lanh,Nu,0.
+N15DCAT098,040396,Pham Dinh,Khanh,Nam,0.
+N15DCAT092,020197,Dang Cong,Mau,Nam,0.
+N15DCAT075,140497,Nguyen Anh,Thu,Nu,0.
+N15DCAT064,120597,Nguyen Dinh,Tung,Nam,0.
+N15DCAT068,220496,Tran Van,Anh,Nam,0.
+N15DCAT074,130797,Do Van,Thanh,Nam,0.
+N15DCAT082,150397,Hoang Thanh,Binh,Nam,0.
+N15DCAT091,170396,Nguyen Thi,Thy,Nu,0.
+N15DCAT102,200697,Pham Anh,Huy,Nam,0.
+3
+Cau truc du lieu va giai thuat,CTDL
+Co so du lieu,CSDL
+Kien truc may tinh va he dieu hanh,KTMT
+30
+1
+KTMT
+Trinh tu xu ly thng tin cua may tinh dien tu la:
+A. CPU -> Dia cung -> Man hinh
+B.Nhan thong tin -> Xu ly thong tin -> Xuat thong tin
+C. CPU -> Ban phim -> Man hinh
+D. Man hinh -> May in -> Dia mem
+B
+2
+KTMT
+He thong nho cua may tinh bao gom:
+A. Cache,Bo nho ngoai
+B. Bo nho ngoai, ROM 
+C. Dia quang, Bo nho trong
+D. Bo nho trong, Bo nho ngoai
+D
+3
+KTMT
+Trong may tinh, co cac loai bus lien ket he thong nhu sau:
+A. Chi dan, Chuc nang, Dieu khien
+B. Dieu khien, Du lieu, Dia chi
+C. Du lieu, Phu thuoc, Dieu khien
+D. Du lieu, Dieu khien, Phu tro
+B
+4
+CTDL
+Cac tieu chuan de danh gia mot cau truc du lieu:
+A. Phai tiet kiem tai nguyen (bo nho trong).
+B. Phai phan anh dung thuc te cua bai toan.
+C. Phai de dang trong viec thao tac du lieu.
+D. Tat ca deu dung.
+D
+5
+KTMT
+Bo dem chuong trinh cua may tinh khong phai la:
+A. Thanh ghi chua dia chi lenh
+B. Thanh ghi chua lenh sap thuc hien
+C. Thanh ghi chua dia chi lenh sap thuc hien
+D. Thanh ghi
+B
+6
+CTDL
+Dinh nghia nao la dung voi danh sach lien ket:
+A. Danh sach lien ket la cau truc du lieu dang cay.
+B. Danh sach lien ket la cau truc du lieu tu dinh nghia.
+C. Danh sach lien ket la tap hop cac phan tu ma giua chung co mot su lien ket voi nhau thong qua vung lien ket cua chung.
+D. Danh sach lien ket la tap hop cac phan tu ma dat ke can voi nhau trong vung nho
+D
+7
+KTMT
+May tinh ENIAC la may tinh:
+A. Do Bo giao duc My dat hang
+B. La may tinh ra doi vam nhung nam 1970
+C. Dung vi mach co nho va co vua
+D. La may tinh dau tien tren the gioi
+D
+8
+KTMT
+Phat bieu nao sau day la dung:
+A. INTR la tin hieu cung chan duoc
+B. INTR la tin hieu ngat mem
+C. INTR la tin hieu cung khong chan duoc
+D. INTR la mot tin hieu ngat ngoai le
+A
+9
+KTMT
+Cho den nay, may tinh da phat trien qua:
+A. 5 the he
+B. 4 the he
+C. 3 the he
+D. 2 the he
+B
+10
+KTMT
+Tin hieu dieu khien HOLD la tin hieu:
+A. CPU tra loi chap nhan ngat
+B. CPU gui ra ngoai xin dung bus
+C. Tu ben ngoai gui den CPU xin dung bus
+D. Tu ben ngoai gui den CPU tra loi khong dung bus
+C
+11
+CTDL
+Co may cach khai bao danh sach tuyen tinh
+A. 1
+B. 2
+C. 3
+D. 4
+C
+12
+CSDL
+SQL la ten viet tat cua:
+A. Structure Query Language
+B. Query Structure Language
+C. Structure Question Language
+D. Structure Query Locator
+A
+13
+CTDL
+Cau truc du lieu nao tuong ung voi LIFO
+A. Queue
+B. Linked List 
+C. Tree 
+D. Stack 
+D
+14
+CTDL
+Lua chon cau dung nhat ve danh sach lien ket doi (Double Linked List):
+A. Vung lien ket cua mot phan tu trong danh sach lien ket doi co 02 moi lien ket voi 01 phan tu khac trong danh sach.
+B. Vung lien ket cua mot phan tu trong danh sach lien ket doi co 01 moi lien ket voi 02 phan tu khac trong danh sach
+C. Vung lien ket cua mot phan tu trong danh sach lien ket doi co 02 moi lien ket voi 02 truoc va sau no trong danh sach.
+D. Vung lien ket cua mot phan tu trong danh sach lie ket doi co 02 moi lien ket voi phan tu dau va cuoi cua danh sach.
+C
+15
+CSDL
+Cac phep toan gop nhom duoc su dung sau menh de?
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+D
+16
+CTDL
+Cau truc du lieu mang co cac uu diem nao:
+A. Viec them bot cac phan tu trong danh sach dac co nhieu kho khan do phai di doi cac phan tu khac di qua cho khac
+B. Viec truy xuat va tim kiem cac phan tu cua mang la de dang vi cac phan tu dung lien nhau nen chung ta chi can su dung chi so de dinh vi vi tri cac phan tu trong danh sach (dinh vi dia chi cac phan tu).
+C. Mat do su dung bo nho cua mang la toi uu.
+D. Cau A, B, C deu dung.
+D
+17
+CTDL
+Lua chon dinh nghia ve danh sach dung nhat:
+A. Danh sach la tap hop cac phan tu co kieu du lieu xac dinh va giua chung co moi lien he nao do.
+B. So phan tu cua danh sach goi la chieu dai cua danh sach.
+C. Mot danh sach co chieu dai bang 0 la mot danh sach rong.
+D. Tat ca deu dung.
+D
+18
+KTMT
+Cac hoat dong cua may tinh gom:
+A. Ngat, giai ma lenh, vao/ra
+B. Xu ly so lieu, ngat, thuc hien chuong trinh
+C. Thuc hien chuong trinh, ngat, vao/ra
+D. Tinh toan ket qua, luu tru du lieu, vao/ra
+C
+19
+CTDL
+Moi quan he giua cau truc du lieu va giai thuat co the minh hoa bang dang thuc:
+A. Cau truc du lieu + Giai thuat = Chuong trinh.
+B. Cau truc du lieu + Chuong trinh =  Giai thuat
+C. Chuong trinh + Giai thuat = Cau truc du lieu.
+D. Cau truc du lieu = Chuong trinh.
+A
+20
+CTDL
+Co bao nhieu cach them 1 phan tu vao danh sach lien ket don?
+A. 1
+B. 2
+C. 3
+D. 4
+C
+21
+CSDL
+Truong khoa chinh la truong:
+A. Single key
+B. Unique Key
+C. First Key
+D. Primary Key
+D
+22
+CSDL
+Tieu chi nao sau day thuong duoc dung de chon khoa chinh:
+A. Khoa co it thuoc tinh nhat.
+B. Khong chua cac thuoc tinh thay doi theo thoi gian.
+C. Khoa bat ki.
+D. Chi la khoa co mot thuoc tinh
+A
+23
+CSDL
+Lien ket giua cac bang dua tren
+A. Thuoc tinh khoa
+B. Cac thuoc tinh trung ten nhau giua cac bang
+C. Y dinh cua nguoi quan trihe CSDL
+D. Y dinh ghep cac bang thanh mot bang co nhieu thuoc tinh hon
+A
+24
+CSDL
+Dau KHONG PHAI la cac buoc xay dung co so du lieu
+A. Thiet ke
+B. Khao sat
+C. Chay thu
+D. Ky hop dong
+D
+25
+CTDL
+Danh sach lien ket don gom nhung thanh phan gi:
+A. Noi dung va so luong phan tu trong danh sach
+B. Noi dung cua tung phan tu trong danh sach
+C. Noi dung cua phan tu va hai con tro giu dia chi cua phan tu truoc va sau no
+D. Noi dung cua phan tu va mot con tro giu dia chi cua phan tu tiep theo
+D
+26
+CSDL
+Neu A=>B va A=>C thi suy ra:
+A. A=>BC
+B. A=>AB
+C. AB=>BC
+D. AA=>C
+A
+27
+KTMT
+Trong may tinh,ngat NMI la gi
+A. Ngat ngoai le khong chan duoc
+B. Ngat mem khong chan duoc
+C. Ngat cung khong chan duoc
+D. Ngat mem chan duoc
+C
+28
+CSDL
+Uu diem co so du lieu
+A. Xuat hien di thuong thong tin
+B. Cac thuoc tinh duoc mo ta trong nhieu tep du lieu khac nhau
+C. Kha nang xuat hien mau thuan va khong nhat quan du lieu
+D. Giam du thua, nhat quan va toan ven du lieu
+D
+29
+CSDL
+Khong nhat quan du lieu trong luu tru
+A. Khong xuat hien mau thuan thong tin
+B. Lam cho du lieu mat di tinh toan ve cua no
+C. Khong the sua doi, bo sung, cap nhat du lieu
+D. Co the trien khai tra cuu tim kiem
+B
+30
+CSDL
+Phep chon duoc thuc hien sau menh de:
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+A
